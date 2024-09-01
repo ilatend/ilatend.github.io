@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilatend.github.io/sitemap.html.gz
+Sitemap: https://ilatend.github.io/app/sitemap.html.gz
+Sitemap: https://ilatend.github.io/assets/sitemap.html.gz
+Sitemap: https://ilatend.github.io/css/sitemap.html.gz
+Sitemap: https://ilatend.github.io/includes/sitemap.html.gz
+Sitemap: https://ilatend.github.io/item/sitemap.html.gz
+Sitemap: https://ilatend.github.io/src/sitemap.html.gz
